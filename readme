@@ -1,1 +1,2 @@
-1. Why there is a need for using "use strict"?
+1. Why there is a need for using "use strict"? strict.js
+2. Does javascript pass by value or reference? does scope influence it? passtype.js
