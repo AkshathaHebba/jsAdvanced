@@ -1,2 +1,4 @@
 Use Strict
 What code is generally allowed will not throw an excecption. It directs you quickly to the probable souce
+Why is it in string? 
+If an older browser read this file it sees string and would ignore but newer browser will treat it in a stricter war
